@@ -8,8 +8,8 @@ namespace: goapp
 
 images:
 - name: goapp
-  newName: nirvanabrz/argocd-goserver
-  newTag: ccceb3b62ad8ea66c685ddb9d4390bfd2c083838
+  newName: nirvanabrz/goserver
+  newTag: bc974802a2e3cdc15fa41ed2227a024eebc52852
 - name: nirvanabrz/goserver
   newName: nirvanabrz/goserver
   newTag: v1
