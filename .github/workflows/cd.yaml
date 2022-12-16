@@ -36,7 +36,7 @@ jobs:
         run: |
           cd k8s
           kustomize edit set image goapp=nirvanabrz/argocd-goserver:${{ github.sha }}
-          cat kustomize.yaml
+          cat kustomization.yaml
 
       - name: commit
         run: |

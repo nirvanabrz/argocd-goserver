@@ -10,3 +10,4 @@ images:
  - name: nirvanabrz/goserver
    newName: nirvanabrz/goserver
    newTag: v1
+   
